@@ -32,3 +32,4 @@ value.textContent = count
 })
 
 })
+//테스트
